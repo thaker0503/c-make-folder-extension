@@ -48,7 +48,7 @@ If you find any issues with the extension or have suggestions for improvements, 
 
 ## License
 
-This extension is licensed under the [MIT License](LICENSE).
+This extension is licensed under the [MIT License](https://github.com/thaker0503/c-make-folder-extension/blob/main/LICENSE.txt).
 
 ---
 
