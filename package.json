@@ -1,6 +1,7 @@
 {
   "name": "c---make-generator",
   "displayName": "c++-make-generator",
+  "publisher": "YatharthThaker",
   "description": "Creates a folder with the provided name of the file and adds a new cpp file, creates its .o file and a makeFile inside that folder.",
   "version": "0.0.1",
   "engines": {
@@ -52,5 +53,9 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "@vscode/test-electron": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaker0503/c-make-folder-extension.git"
   }
 }
